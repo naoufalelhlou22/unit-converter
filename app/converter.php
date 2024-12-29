@@ -1,7 +1,7 @@
 <?php
 
-require ('functions/temperature_conversion.php');
-require ('includes/units.php');
+require('../functions/temperature_conversion.php');
+require('../includes/units.php');
 
 $inputValue     = $_POST['inputValue'];
 $conversionType = $_POST['conversionType'];

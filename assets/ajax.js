@@ -17,7 +17,7 @@ function convertUnits(event) {
 
     // Create a new XMLHttpRequest (AJAX) to send data to the server
     const xhr = new XMLHttpRequest();
-    xhr.open('POST', 'converter.php', true);
+    xhr.open('POST', 'app/converter.php', true);
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4 && xhr.status === 200) {
             // If the request is successful, update the page with the result
