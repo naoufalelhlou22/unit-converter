@@ -12,7 +12,6 @@ $conversionType = $_POST['conversionType'];
 $unitFrom       = $_POST['unitFrom'];
 $unitTo         = $_POST['unitTo'];
 
-// Switch statement to handle different conversion types
 switch ($conversionType) {
     case 'temperature':
         // Handle temperature conversions
