@@ -1,4 +1,3 @@
-```markdown
 # Unit Converter
 
 ## Description
@@ -65,7 +64,7 @@ We welcome contributions from the community! To contribute:
    ```
 5. Open a pull request and describe your changes.
 
-## Related Resources 📚
+6. ## Related Resources 📚
 
 Explore the [roadmap.sh Unit Converter Project](https://roadmap.sh/projects/unit-converter) for insights and guidelines.
 
@@ -78,4 +77,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 For any inquiries or feedback, feel free to reach out via GitHub Issues or [email](mailto:naoufal.elhlou@etu.ua.ac.ma).
 
 Happy Converting! 🔄✨
-```
