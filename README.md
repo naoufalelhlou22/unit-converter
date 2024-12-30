@@ -32,7 +32,7 @@ The Unit Converter is a versatile tool that simplifies the process of converting
 
 1. Clone the repository to your local server:
    ```bash
-   git clone https://github.com/naoufalelhlou22/unit_converter.git
+   git clone https://github.com/naoufalelhlou22/unit-converter.git
    ```
 2. Place the project directory in your local server's root path (e.g., `htdocs` for XAMPP).
 3. Start your local server and access the project via the browser.
